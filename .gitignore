@@ -1,1 +1,17 @@
+# Secrets (API keys)
 .env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Your personal profile data. Back it up with the Export button instead.
+data/*.db
+data/*.db-journal
+
+# Node
+node_modules/
+dist/

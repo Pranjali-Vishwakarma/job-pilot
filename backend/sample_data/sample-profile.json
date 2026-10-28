@@ -1,0 +1,116 @@
+{
+    "version": 1,
+    "profile": {
+        "full_name": "Sample Student",
+        "headline": "AI/ML Engineer",
+        "email": "sample@example.com",
+        "phone": "",
+        "location": "Pune, India",
+        "linkedin_url": "",
+        "github_url": "https://github.com/sample",
+        "portfolio_url": "",
+        "summary": "Final-year AI & ML student who builds retrieval and forecasting systems end to end."
+    },
+    "items": [
+        {
+            "organization": "Team project",
+            "role": "",
+            "location": "",
+            "start_date": "2026-08",
+            "end_date": null,
+            "is_current": true,
+            "link": "",
+            "description": "",
+            "bullets": [
+                "Forecast hourly demand per station with gradient boosting"
+            ],
+            "tags": [],
+            "tech": [
+                "Python",
+                "LightGBM",
+                "MLflow"
+            ],
+            "sort_order": 0,
+            "kind": "project",
+            "title": "Bike demand forecasting with MLOps"
+        },
+        {
+            "organization": "Multimodal AI course",
+            "role": "ML lead, team of 4",
+            "location": "",
+            "start_date": "2026-06",
+            "end_date": "2026-08",
+            "is_current": false,
+            "link": "",
+            "description": "",
+            "bullets": [
+                "Built a CLIP-based retrieval pipeline over 40k images with FAISS",
+                "Added personalised re-ranking from user feedback, lifting recall@10 to 0.82",
+                "Deployed the API with Docker on a free tier"
+            ],
+            "tags": [
+                "rag",
+                "computer-vision"
+            ],
+            "tech": [
+                "Python",
+                "PyTorch",
+                "CLIP",
+                "FAISS",
+                "FastAPI",
+                "React",
+                "Docker"
+            ],
+            "sort_order": 0,
+            "kind": "project",
+            "title": "Visual RAG image search"
+        },
+        {
+            "organization": "Example Labs",
+            "role": "",
+            "location": "Pune",
+            "start_date": "2026-01",
+            "end_date": "2026-06",
+            "is_current": false,
+            "link": "",
+            "description": "",
+            "bullets": [
+                "Shipped a document classifier used by 3 internal teams"
+            ],
+            "tags": [],
+            "tech": [
+                "Python",
+                "scikit-learn"
+            ],
+            "sort_order": 0,
+            "kind": "experience",
+            "title": "Machine Learning Intern"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Docker",
+            "category": "cloud_devops",
+            "level": "beginner",
+            "notes": ""
+        },
+        {
+            "name": "Figma",
+            "category": "design",
+            "level": "intermediate",
+            "notes": ""
+        },
+        {
+            "name": "PyTorch",
+            "category": "framework",
+            "level": "intermediate",
+            "notes": ""
+        },
+        {
+            "name": "Python",
+            "category": "language",
+            "level": "advanced",
+            "notes": ""
+        }
+    ]
+}
